@@ -2,7 +2,7 @@
 
 # 🤖
 
-# RanTech Systems
+# Ran Technologies
 
 **Software that goes the distance.**
 
