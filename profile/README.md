@@ -6,7 +6,7 @@
 
 **Software that goes the distance.**
 
-[🌐 rantechs.com](https://rantechs.com) · [📂 Portfolio &amp; case studies](https://rantechs.github.io) · [✉️ hello@rantechs.com](mailto:hello@rantechs.com)
+[🌐 rantechs.com](https://rantechs.com) · [📂 Portfolio &amp; case studies](https://work.rantechs.com) · [✉️ hello@rantechs.com](mailto:hello@rantechs.com)
 
 </div>
 
@@ -28,10 +28,10 @@ We build the layered systems that hold software together — built to start fast
 ### MANJUMA GROUP — *Diversified Malaysian business group*
 
 `Client Website` · Astro · TypeScript · AWS
-A fast, accessible, search-ready corporate website — a perfect **100/100/100/100** on Google Lighthouse.
+A fast, accessible, search-ready corporate website — a perfect 100/100/100/100 on Google Lighthouse.
 
-[![Case study](https://img.shields.io/badge/Case_study-Read_report-5b8cff?style=flat-square)](https://rantechs.github.io/projects/manjuma-group/)
-[![Live · CloudFront](https://img.shields.io/badge/Live-CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white)](https://manjumagroup.com)
+[![Case study](https://img.shields.io/badge/Case_study-Read_report-5b8cff?style=flat-square)](https://work.rantechs.com/projects/manjuma-group/)
+[![Live · AWS CloudFront](https://img.shields.io/badge/Live-AWS_CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white)](https://manjumagroup.com)
 [![Status · Production](https://img.shields.io/badge/Status-Production-2ea44f?style=flat-square)](https://manjumagroup.com)
 [![Repo · Private](https://img.shields.io/badge/Repo-Private_%F0%9F%94%92-6e7681?style=flat-square&logo=github&logoColor=white)](https://github.com/rantechs/manjumagroup.com)
 [![Deploy](https://github.com/rantechs/manjumagroup.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/rantechs/manjumagroup.com/actions/workflows/deploy.yml)
@@ -40,7 +40,7 @@ A fast, accessible, search-ready corporate website — a perfect **100/100/100/1
 
 <!-- PROJECTS:END -->
 
-**[See the full portfolio → rantechs.github.io](https://rantechs.github.io)**
+**[See the full portfolio → work.rantechs.com](https://work.rantechs.com)**
 
 ---
 
@@ -63,7 +63,7 @@ WCAG 2.2 AA accessibility, and infrastructure-as-code, documented per project.
 ### 📬 Get in touch
 
 - 🌐 Web — [rantechs.com](https://rantechs.com)
-- 📂 Portfolio — [rantechs.github.io](https://rantechs.github.io)
+- 📂 Portfolio — [work.rantechs.com](https://work.rantechs.com)
 - ✉️ Email — [hello@rantechs.com](mailto:hello@rantechs.com)
 - 🇧🇩 Based in Dhaka, working everywhere
 

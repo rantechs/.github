@@ -1,0 +1,13 @@
+{
+  "name": "rantechs-org-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "RanTechs organization profile — featured projects generated from the portfolio metadata.",
+  "scripts": {
+    "gen:readme": "node scripts/gen-readme.mjs"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
