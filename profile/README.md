@@ -2,7 +2,7 @@
 
 # 🤖
 
-# Ran Technologies
+# Imran Technologies Ltd - RanTechs
 
 **Software that goes the distance.**
 
