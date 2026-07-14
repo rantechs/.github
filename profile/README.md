@@ -36,6 +36,19 @@ A fast, accessible, search-ready corporate website — a perfect 100/100/100/100
 [![Repo · Private](https://img.shields.io/badge/Repo-Private_%F0%9F%94%92-6e7681?style=flat-square&logo=github&logoColor=white)](https://github.com/rantechs/manjumagroup.com)
 [![Deploy](https://github.com/rantechs/manjumagroup.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/rantechs/manjumagroup.com/actions/workflows/deploy.yml)
 
+---
+
+### AUTOBAHN SOLUTIONS — *Specialist European-car workshop, Dhaka*
+
+`Client Website` · HTML5 · Bootstrap · AWS
+A 31-page specialist SEO site — deep structured data, AI-search readiness, and conversion-first lead capture.
+
+[![Case study](https://img.shields.io/badge/Case_study-Read_report-5b8cff?style=flat-square)](https://work.rantechs.com/projects/autobahn-solutions/)
+[![Live · AWS CloudFront](https://img.shields.io/badge/Live-AWS_CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white)](https://autobahnsolution.com)
+[![Status · Production](https://img.shields.io/badge/Status-Production-2ea44f?style=flat-square)](https://autobahnsolution.com)
+[![Repo · Source](https://img.shields.io/badge/Repo-Source-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/fahim1207/autobahnsolution.com)
+[![Deploy](https://github.com/fahim1207/autobahnsolution.com/actions/workflows/main.yml/badge.svg)](https://github.com/fahim1207/autobahnsolution.com/actions/workflows/main.yml)
+
 <sub>↑ The live CI/CD status badge renders for RanTechs team members with repo access; it is a private repository, so logged-out visitors may see it as unavailable.</sub>
 
 <!-- PROJECTS:END -->
