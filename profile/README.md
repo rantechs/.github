@@ -1,8 +1,9 @@
 <div align="center">
 
-# 🤖
+<img width="512" height="512" alt="itl-mark-color" src="https://github.com/user-attachments/assets/c3efe55c-3a0b-4389-9c00-df87481bcdff" />
 
-# Imran Technologies Ltd — RanTechs
+
+# Imran Technologies Ltd
 
 **Software that goes the distance.**
 
